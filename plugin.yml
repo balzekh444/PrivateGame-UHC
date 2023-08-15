@@ -1,0 +1,13 @@
+name: PrivateGame
+version: 1.0.0
+main: fr.lidary.game.Main
+authors: [ Balzekh ]
+commands:
+  private:
+    aliases: [pv]
+  privateinfo:
+    aliases: [co]
+  slot:
+    aliases: [slots]
+  whitelist:
+    aliases: [wl]
